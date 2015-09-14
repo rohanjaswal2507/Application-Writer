@@ -1,0 +1,7 @@
+/* CSS stylesheet for Application */
+
+.container {
+    margin: auto;
+    border: 1px;
+    padding: 10%;
+}
